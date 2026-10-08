@@ -1,3 +1,6 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
+
 # Transforma tus procesos empresariales cotidianos con agentes
 
 Este curso está diseñado para formar a los usuarios de negocios sobre cómo crear, gestionar y utilizar agentes en Microsoft 365 Copilot Chat y SharePoint.
@@ -19,7 +22,7 @@ Este curso está diseñado para formar a los usuarios de negocios sobre cómo cr
 
 - [Práctica: Análisis comparativo de fondos multiactivo para una revisión interna](Practica01/README.md)
 
-- [Recursos](Practica01/recursos)
+- [Recursos](Practica01/recursos/fondos_multiactivo_24m.xlsx)
 
   - Descripción: Los participantes utilizarán el agente Analista (Analyst) de Microsoft 365 Copilot para explorar y comparar información histórica de seis fondos multiactivo ficticios. Analizarán rendimiento, volatilidad, composición, exposición geográfica, moneda, comisiones y nivel de riesgo; identificarán diferencias y comportamientos atípicos; solicitarán visualizaciones; y revisarán los criterios o cálculos utilizados por el agente. El resultado será una síntesis de hallazgos y aspectos que requieren profundización, sin seleccionar un fondo ganador ni emitir recomendaciones de inversión.
 
@@ -37,6 +40,8 @@ Este curso está diseñado para formar a los usuarios de negocios sobre cómo cr
 
 - [Práctica: Mejora de una comunicación sobre resultados de una revisión de portafolio](Practica03/README.md)
 
+- [Recursos](Practica03/recursos/borrador_revision_portafolio.docx)
+
   - Descripción: Los participantes utilizarán el Asesor de escritura para diagnosticar y mejorar un borrador ficticio sobre los resultados de una revisión de portafolio. Revisarán estructura, claridad, extensión y tono, y posteriormente crearán dos versiones del mismo contenido: una dirigida al cliente y otra al equipo interno de CIBEST CAPITAL. La comparación permitirá observar cómo cambian el tono, la profundidad y la organización sin modificar los hechos originales.
 
   - Duración estimada: 32 min
@@ -44,6 +49,11 @@ Este curso está diseñado para formar a los usuarios de negocios sobre cómo cr
 ### Capítulo 4
 
 - [Práctica: Creación de un agente para consulta del proceso de vinculación de clientes de inversión](Practica04/README.md)
+
+- [Recursos](Practica04/recursos/matriz_requisitos_documentales_lab.docx)
+- [Recursos](Practica04/recursos/preguntas_frecuentes_lab.docx)
+- [Recursos](Practica04/recursos/procedimiento_vinculacion_lab.docx)
+- [Recursos](Practica04/recursos/roles_responsabilidades_lab.docx)
 
   - Descripción: Los participantes utilizarán Agent Builder para crear un agente de capacitación basado exclusivamente en documentos ficticios sobre el proceso de vinculación de clientes. Configurarán nombre, descripción, instrucciones, fuentes de conocimiento y preguntas iniciales, y probarán consultas directas, casos que requieren combinar fuentes, documentación incompleta, preguntas ambiguas y solicitudes cuya respuesta no existe en los documentos. Finalmente ajustarán las instrucciones y volverán a probar el agente para validar su comportamiento y sus límites de conocimiento.
 
@@ -57,10 +67,15 @@ Este curso está diseñado para formar a los usuarios de negocios sobre cómo cr
 
   - Duración estimada: 35 min
 
-**Duración práctica total:** 237 min (3 h 57 min).
+----
 
-## Flujo de colaboración
+## 📬 **Contacto y más información**
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+---
+
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
